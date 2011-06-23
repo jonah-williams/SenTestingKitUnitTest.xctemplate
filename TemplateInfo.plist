@@ -16,7 +16,7 @@
 	<string>___FILEBASENAME___.m</string>
 	<key>Platforms</key>
 	<array>
-		<string>com.apple.platform.macosx</string>
+		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>Summary</key>
 	<string>A SenTestingKit Unit Test</string>
