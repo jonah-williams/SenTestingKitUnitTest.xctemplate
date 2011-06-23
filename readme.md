@@ -1,0 +1,1 @@
+Install into `~/Library/Developer/Xcode/Templates/FileTemplates/`
